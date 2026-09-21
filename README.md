@@ -4,9 +4,11 @@
 
 ### A Passionate AI/ML Engineer from India 🇮🇳
 
+I design and build practical **Generative AI, Machine Learning, and cloud-based AI applications** with a focus on multi-agent systems, document intelligence, data science, and production-ready APIs.
+
 <p>
   <a href="https://github.com/ajeetkumarAI"><img src="https://img.shields.io/badge/GitHub-ajeetkumarAI-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/ajeetkumarAI?tab=followers"><img src="https://img.shields.io/github/followers/ajeetkumarAI?style=for-the-badge&logo=github" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=ajeetkumarAI&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 </div>
@@ -15,11 +17,20 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Generative AI and Deep Learning projects**
-- 🌱 I’m currently learning **Computer Vision and Generative Artificial Intelligence (GenAI)**
-- 👯 I’m looking to collaborate on exciting open-source projects using **Python and PySpark**
-- 💬 Ask me about **Data Science, Machine Learning, and AI**
+- 🔭 I’m currently working on **Generative AI, multi-agent systems, document assistants, and deep learning projects**
+- 🌱 I’m currently learning and experimenting with **Computer Vision, Generative Artificial Intelligence, Model Context Protocol (MCP), and LLM application development**
+- 👯 I’m looking to collaborate on exciting open-source projects using **Python, PySpark, AI agents, and cloud technologies**
+- 💬 Ask me about **Data Science, Machine Learning, Generative AI, RAG, document intelligence, FastAPI, AWS, and Azure**
 - ⚡ Fun fact: I’m a **chess enthusiast**! Let’s play a game sometime. ♟️
+
+## 🚀 What I Build
+
+- 🤖 **Multi-agent AI systems** for loan processing and BFSI IT operations support
+- 📄 **Document intelligence assistants** for HR, banking, compliance, and enterprise knowledge discovery
+- 🧠 **Generative AI and RAG applications** using LLMs, retrieval, tools, and human-in-the-loop workflows
+- 🔤 **Natural-language data applications**, including Text-to-SQL systems
+- ☁️ **Cloud-ready AI APIs and applications** using AWS, Azure, Docker, FastAPI, Flask, and Streamlit
+- 📚 **Learning resources and hands-on projects** for Python, AI/ML, GenAI, cloud, and developer tools
 
 ## 🛠️ Languages and Tools
 
@@ -45,15 +56,29 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
 </p>
 
-## 🚀 Featured Interests
+## 🌟 Featured Projects
 
-- Generative AI and deep learning
-- Computer vision
-- Data science and machine learning
-- Cloud-based AI applications
-- Python and PySpark open-source projects
+| Project | What it does |
+|---|---|
+| [Multi-Agent Loan Processing System](https://github.com/ajeetkumarAI/Multi-Agent-Loan-Processing-System) | Automates customer onboarding, document verification, financial analysis, underwriting, risk assessment, compliance review, and human-in-the-loop decisions. |
+| [Multi-Agent IT Operations Support Platform](https://github.com/ajeetkumarAI/Multi-Agent-IT-Operations-Support-Platform) | Uses specialized agents to classify incidents, gather information, retrieve knowledge, troubleshoot issues, automate resolutions, and escalate complex cases. |
+| [HR Document Assistant with Azure Services](https://github.com/ajeetkumarAI/HR_Document_Assistant_Copilot_with_Azure_Services) | Explores document-based HR assistance using Azure services and Generative AI patterns. |
+| [Banking Compliance Document Assistant](https://github.com/ajeetkumarAI/Banking_Compliance_Document_Assistant) | Helps users work with banking and compliance documentation through an AI assistant experience. |
+| [Text-to-SQL Project](https://github.com/ajeetkumarAI/Text_To_SQL_Project) | Converts natural-language questions into SQL queries for data exploration. |
+| [AI Agent Papers](https://github.com/ajeetkumarAI/ai-agent-papers) | Curated collection of AI-agent research papers and learning resources. |
+
+## 🎯 Featured Interests
+
+- Generative AI, LLM applications, and deep learning
+- Multi-agent systems, RAG, tool use, and MCP
+- Computer vision and document intelligence
+- Data science, machine learning, and Text-to-SQL
+- Cloud-based AI applications with AWS and Azure
+- Python, PySpark, FastAPI, Docker, and open-source engineering
+- Enterprise AI solutions for BFSI, HR, compliance, and IT operations
 
 ## 📊 GitHub Stats
 
