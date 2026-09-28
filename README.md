@@ -63,8 +63,6 @@ I design and build practical **Generative AI, Machine Learning, and cloud-based 
 
 | Project | What it does |
 |---|---|
-| [Multi-Agent Loan Processing System](https://github.com/ajeetkumarAI/Multi-Agent-Loan-Processing-System) | Automates customer onboarding, document verification, financial analysis, underwriting, risk assessment, compliance review, and human-in-the-loop decisions. |
-| [Multi-Agent IT Operations Support Platform](https://github.com/ajeetkumarAI/Multi-Agent-IT-Operations-Support-Platform) | Uses specialized agents to classify incidents, gather information, retrieve knowledge, troubleshoot issues, automate resolutions, and escalate complex cases. |
 | [HR Document Assistant with Azure Services](https://github.com/ajeetkumarAI/HR_Document_Assistant_Copilot_with_Azure_Services) | Explores document-based HR assistance using Azure services and Generative AI patterns. |
 | [Banking Compliance Document Assistant](https://github.com/ajeetkumarAI/Banking_Compliance_Document_Assistant) | Helps users work with banking and compliance documentation through an AI assistant experience. |
 | [Text-to-SQL Project](https://github.com/ajeetkumarAI/Text_To_SQL_Project) | Converts natural-language questions into SQL queries for data exploration. |
@@ -89,12 +87,6 @@ I design and build practical **Generative AI, Machine Learning, and cloud-based 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkumarAI&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🤝 Let's Connect
-
-Feel free to explore my repositories, collaborate on an open-source project, or challenge me to a game of chess! ♟️
-
-<div align="center">
 
 ⭐ Thanks for visiting my profile!
 
